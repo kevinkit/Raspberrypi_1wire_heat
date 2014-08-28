@@ -5,6 +5,8 @@ Furthermore you need to add the kernel-modules
 Add:
 
 w1-gpio pullup=1
+
+
 w1-therm
 
 
